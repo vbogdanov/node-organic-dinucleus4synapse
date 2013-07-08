@@ -1,0 +1,31 @@
+{
+  "name": "organic-dinucleusForSynapse",
+  "version": "0.0.0",
+  "description": "An extension of DINucleus adding address injection and address resolving.",
+  "main": "index.js",
+  "dependencies": {
+    "organic-synapse":"0.0.5",
+    "organic-dinucleus":"0.0.5",
+    "node-uuid":"1.4.0"
+  },
+  "devDependencies": {
+    "jasmine-node": "latest",
+    "organic": "0.1.1"
+  },
+  "scripts": {
+    "test": "jasmine-node tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vbogdanov/node-organic-dinucleusForSynapse.git"
+  },
+  "keywords": [
+    "organic",
+    "organic-synapse",
+    "dependency-injection"
+  ],
+  "author": "Valeri Bogdanov",
+  "bugs": {
+    "url": "https://github.com/vbogdanov/node-organic-dinucleusForSynapse/issues"
+  }
+}

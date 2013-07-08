@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:vbogdanov/node-organic-dinucleusForSynapse.git"
+    "url": "git@github.com:vbogdanov/node-organic-dinucleus4synapse.git"
   },
   "keywords": [
     "organic",
@@ -26,6 +26,6 @@
   ],
   "author": "Valeri Bogdanov",
   "bugs": {
-    "url": "https://github.com/vbogdanov/node-organic-dinucleusForSynapse/issues"
+    "url": "https://github.com/vbogdanov/node-organic-dinucleus4synapse/issues"
   }
 }

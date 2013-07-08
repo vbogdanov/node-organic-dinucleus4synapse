@@ -1,6 +1,6 @@
 {
   "name": "organic-dinucleusForSynapse",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An extension of DINucleus adding address injection and address resolving.",
   "main": "index.js",
   "dependencies": {

@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "organic-synapse":"0.0.5",
-    "organic-dinucleus":"0.0.5",
+    "organic-dinucleus":"0.0.6",
     "node-uuid":"1.4.0"
   },
   "devDependencies": {

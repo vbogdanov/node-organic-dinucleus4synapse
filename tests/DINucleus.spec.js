@@ -1,4 +1,3 @@
-/* global require: false */
 /* global describe: false */
 /* global it: false */
 /* global expect: false */
